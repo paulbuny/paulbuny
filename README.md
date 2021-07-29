@@ -1,9 +1,9 @@
 <h1 align="left">Привет 👋, меня зовут Павел</h1> 
 
 <ul>
-  <li>🏃‍♂️ В погоне за практикой работы над боевыми проектами</li>
+  <li>🏃‍♂️ Стремлюсь к практике работы над боевыми проектами</li>
   <li>🤟 Хочу работать с опытными и амбициозными коллегами</li>
-  <li>🤓 Стремлюсь освоить новые технологии и языки</li>
+  <li>🤓 В погоне за новыми знаниями и технологиями</li>
   <li>🧐 Стараюсь писать чистый и красивый код</li>
 </ul>
 
@@ -27,7 +27,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=paulbuny&show_icons=true&include_all_commits=true)](https://github.com/paulbuny/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulbuny&layout=compact)](https://github.com/paulbuny/github-readme-stats)
 
-### Связаться со мной:
+### 📧 Связаться со мной:
 [![Gmail Badge](https://img.shields.io/badge/-pavel.buny@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pavel.buny@gmail.com)](mailto:pavel.buny@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-paulbuny-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulbuny/)](https://www.linkedin.com/in/paulbuny/)
 [![Github Badge](https://img.shields.io/badge/-paulbuny-grey?style=flat&logo=github&logoColor=white&link=https://github.com/paulbuny/)](https://www.github.com/paulbuny/)
